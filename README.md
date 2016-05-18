@@ -3,6 +3,18 @@ test
 
 仿微博作品  实现大部分功能 查看用户关注信息 最新微博信息 粉丝数 关注数 附近的人 附近的微博 发布微博 主题切换
 
+所加入的库有 
+libxml2.tbd
+MobileCoreServices.framework
+CFNetwork.framework
+SystemConfiguration.framework
+libz.1.2.5.tbd
+libxml2.2.tbd
+Foundation.framework
+CoreGraphics.framework
+libicucore.tbd
+各个库置入有警报错误  请自行百度调试
+
 ![主页面](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/主页面_G.gif)
  
 ![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/主页面_G.gif)
