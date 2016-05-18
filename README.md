@@ -11,3 +11,29 @@ test
 ![关注列表](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/关注列表_G.gif)
  
 ![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/关注列表_G.gif)
+
+
+![风格切换](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/风格切换_G.gif)
+ 
+![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/风格切换_G.gif)
+
+
+![超链接](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/超链接_G.gif)
+ 
+![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/超链接_G.gif)
+
+
+
+![附近的微博](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/附近的微博_G.gif)
+ 
+![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/附近的微博_G.gif)
+
+
+![发布](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/发布_G.gif)
+ 
+![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/发布_G.gif)
+
+
+
+
+在模拟器上定位授权可能有点不兼容  我是先用别的项目开启定位服务后 再运行这个项目  才会会正常调用CLLocationManager 代理方法 
