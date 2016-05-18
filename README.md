@@ -6,3 +6,8 @@ test
 ![主页面](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/主页面_G.gif)
  
 ![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/主页面_G.gif)
+
+
+![关注列表](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/关注列表_G.gif)
+ 
+![image](https://raw.githubusercontent.com/dls007/dls_-weibo_project/master/MyWeibo/关注列表_G.gif)
