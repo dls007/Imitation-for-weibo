@@ -13,7 +13,7 @@ libxml2.2.tbd
 Foundation.framework
 CoreGraphics.framework
 libicucore.tbd
-各个库置入有警报错误  请自行百度调试
+各个库的置入如果有警报错误  请自行百度调试
 
 ![主页面](http://github.com/dls007/dls_-weibo_project/raw/master/MyWeibo/主页面_G.gif)
  
